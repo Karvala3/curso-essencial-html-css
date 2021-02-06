@@ -1,0 +1,26 @@
+body
+{
+  color:#212121ff;
+
+}
+header {
+  color: #212121ff;
+  font-size: 14px;
+
+}
+h1 {
+  font-size: 60px;
+  /*font-size: 3.75em; (60/16px por defecto) */
+}
+h2{
+font-size: 2em;
+}
+h1{
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.5em;
+  }
+p {
+  font-size: 16px;
+}
